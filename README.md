@@ -2,7 +2,8 @@
 by [Maziar Mehrbakhsh](https://github.com/Maziar-Mehr) & [Virgilio Oñate](https://github.com/vonate5), November 2021
 ## Building a machine learning model to predict the selling prices of houses based on a variety of features
 
-![](images/Image_1.png)
+<img width="825" alt="Image_1" src="https://user-images.githubusercontent.com/88034001/142411192-2111d85c-e05b-4369-bb3c-1591d263c0d3.png">
+
 
 ## Table of content
 - [Project Brief](https://github.com/vonate5/midterm_regression_project#project-brief)
@@ -29,14 +30,16 @@ Further project details such as deliverables can be found [here](https://github.
 ## Data
 Leveraging on the [data](https://github.com/vonate5/midterm_regression_project/tree/main/data) we were provided with, we used Tableau's data visualisation tools to explore the relationships between features. 
 To find out more about the distribution of the important features we highlighted, you can have a look on our Tableau dashboard below:<br/> <br/>
-![](images/tableau_visualization.png)
+<img width="1059" alt="tableau_visualization" src="https://user-images.githubusercontent.com/88034001/142411325-114de632-cc82-4ecd-859d-f8c11bbfe4c4.png">
+
 
 For further information you may find the Tableau worksheets and dashboard [here](https://github.com/vonate5/midterm_regression_project/tree/main/tableau)
 
 ## Process & tools
 We use the following tools to achieve the objective.
 
-![](images/process&tools.png)
+<img width="302" alt="process tools (1)" src="https://user-images.githubusercontent.com/88034001/142411294-c85a20ce-3d40-4bdf-92b8-6cd18d3fc295.png">
+
 
 - **MySQL:** we use MySQL to complete the SQL [questions](https://github.com/vonate5/midterm_regression_project/blob/main/project_details/sql_questions_regression.md). You can find the answers [here](https://github.com/vonate5/midterm_regression_project/tree/main/sql).
 - **Trello:** set up our Trello board to help us organized and complete the daily tasks.
