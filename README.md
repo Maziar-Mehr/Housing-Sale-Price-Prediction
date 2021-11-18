@@ -58,7 +58,7 @@ You can see the full visualization we've done in [Tableau 📊](https://github.c
 **Thanks for reading,**
 
 If you have any question please reach out to us,<br/><br/>
-Team 🇮🇷🇪🇸
+Team �MadRan
 
 
 
