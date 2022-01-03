@@ -1,6 +1,6 @@
 # Case Study: Regression 🏡
 by [Maziar Mehrbakhsh](https://github.com/Maziar-Mehr) & [Virgilio Oñate](https://github.com/vonate5), November 2021
-## Building a machine learning model to predict the selling prices of houses based on a variety of features
+## Housing Sale Price Prediction Using Machine Learning Algorithms
 
 <img width="825" alt="Image_1" src="https://user-images.githubusercontent.com/88034001/142411192-2111d85c-e05b-4369-bb3c-1591d263c0d3.png">
 
