@@ -2,7 +2,8 @@
 by [Maziar Mehrbakhsh](https://github.com/Maziar-Mehr) & [Virgilio Oñate](https://github.com/vonate5), November 2021
 ## Housing Sale Price Prediction Using Machine Learning Algorithms
 
-<img width="825" alt="Image_1" src="https://user-images.githubusercontent.com/88034001/142411192-2111d85c-e05b-4369-bb3c-1591d263c0d3.png">
+
+![61tGSs9npqL _AC_SL1050_](https://user-images.githubusercontent.com/88034001/148541313-435fbe54-6fc1-4ee2-b4ac-e5981beb3ea6.jpg)
 
 
 ## Table of content
@@ -28,7 +29,8 @@ which factors are responsible for higher property value - $650K and above.
 Further project details such as deliverables can be found [here](https://github.com/vonate5/midterm_regression_project/tree/main/project_details)
 
 ## Data
-Leveraging on the [data](https://github.com/vonate5/midterm_regression_project/tree/main/data) we were provided with, we used Tableau's data visualisation tools to explore the relationships between features. 
+The [data](https://github.com/vonate5/midterm_regression_project/tree/main/data) is historical real estate data from Seattle, United States market between May 2014 to May 2015. The data contains information on 22,000 properties and 20 descriptive features for every single property. 
+We used Tableau as a visualisation tool to explore the relationships between features and identifying patterns and outliers in the data. 
 To find out more about the distribution of the important features we highlighted, you can have a look on our Tableau dashboard below:<br/> <br/>
 <img width="1059" alt="tableau_visualization" src="https://user-images.githubusercontent.com/88034001/142411325-114de632-cc82-4ecd-859d-f8c11bbfe4c4.png">
 
@@ -44,8 +46,8 @@ In this project, we explored how predictive modeling can be applied in housing s
 - **MySQL:** we use MySQL to complete the SQL [questions](https://github.com/vonate5/midterm_regression_project/blob/main/project_details/sql_questions_regression.md). You can find the answers [here](https://github.com/vonate5/midterm_regression_project/tree/main/sql).
 - **Trello:** set up our Trello board to help us organized and complete the daily tasks.
 - **Tableau:** here you can find the Tableau [questions](https://github.com/vonate5/midterm_regression_project/blob/main/project_details/tableau_regression.md).You can find the Tableau worksheets and dashboard [here](https://github.com/vonate5/midterm_regression_project/tree/main/tableau).
-- **Python:** programming language we use to build the Machine Learning model that give us the 84% accuracy of the price prediction. You can find here the [code](https://github.com/vonate5/midterm_regression_project/tree/main/code) and the final model [here](https://github.com/vonate5/midterm_project/blob/main/code/Midterm_project_regression_final.ipynb).
-- **Machine Learning:** we use the Linear Regression model, being the final accuracy **84.4%**. 
+- **Python:** You can find here the [code](https://github.com/vonate5/midterm_regression_project/tree/main/code) and the final model [here](https://github.com/vonate5/midterm_project/blob/main/code/Midterm_project_regression_final.ipynb).
+- **Machine Learning:** we used the Linear Regression model with **84.4%** accuracy and Random Forest model with **80.5** accuracy. 
 
 ## Visualization
 You can see the full visualization we've done in [Tableau 📊](https://github.com/vonate5/midterm_regression_project/tree/main/tableau) or the [Presentation](https://slides.com/virgilioonate/case-s)
