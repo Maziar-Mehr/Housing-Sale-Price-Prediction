@@ -46,7 +46,7 @@ In this project, we explored how predictive modeling can be applied in housing s
 - **MySQL:** we use MySQL to complete the SQL [questions](https://github.com/vonate5/midterm_regression_project/blob/main/project_details/sql_questions_regression.md). You can find the answers [here](https://github.com/vonate5/midterm_regression_project/tree/main/sql).
 - **Trello:** set up our Trello board to help us organized and complete the daily tasks.
 - **Tableau:** here you can find the Tableau [questions](https://github.com/vonate5/midterm_regression_project/blob/main/project_details/tableau_regression.md).You can find the Tableau worksheets and dashboard [here](https://github.com/vonate5/midterm_regression_project/tree/main/tableau).
-- **Python:** You can find here the [code](https://github.com/vonate5/midterm_regression_project/tree/main/code) and the final model [here](https://github.com/vonate5/midterm_project/blob/main/code/Midterm_project_regression_final.ipynb).
+- **Python:** you can find here the [code](https://github.com/vonate5/midterm_regression_project/tree/main/code) and the final model [here](https://github.com/vonate5/midterm_project/blob/main/code/Midterm_project_regression_final.ipynb).
 - **Machine Learning:** we used the Linear Regression model with **84.4%** accuracy and Random Forest model with **80.5** accuracy. 
 
 ## Visualization
