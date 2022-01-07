@@ -36,7 +36,7 @@ To find out more about the distribution of the important features we highlighted
 For further information you may find the Tableau worksheets and dashboard [here](https://github.com/vonate5/midterm_regression_project/tree/main/tableau)
 
 ## Process & tools
-In this project, I explored how predictive modeling can be applied in housing sale price prediction by analyzing the housing dataset and using machine learning models. I tried two different models, linear regression and random forest. I spent much time dealing with exploratory data analysis and feature selection before fitting data into the model and then by using RMSE and R-squared measured the model performance. After getting the results of both the models I decided to stick to the linear regression model because of the higher accuracy. For improving the accuracy I tried different approaches to my feature selection and the final accuracy of the model is 84.4. 
+In this project, we explored how predictive modeling can be applied in housing sale price prediction by analyzing the housing dataset and using machine learning models. we tried two different models, linear regression and random forest. we spent much time dealing with exploratory data analysis and feature selection before fitting data into the model and then by using RMSE and R-squared measured the model performance. After getting the results of both the models we decided to stick to the linear regression model because of the higher accuracy. For improving the accuracy we tried different approaches to my feature selection and the final accuracy of the model is 84.4. 
 
 <img width="302" alt="process tools (1)" src="https://user-images.githubusercontent.com/88034001/142411294-c85a20ce-3d40-4bdf-92b8-6cd18d3fc295.png">
 
